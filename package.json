@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "chai": "^4.3.10",
+    "hardhat": "^2.14.0"
+  },
+  "dependencies": {
+    "@nomiclabs/hardhat-waffle": "^2.0.5",
+    "@openzeppelin/contracts": "4.9.3"
+  }
+}
